@@ -1,7 +1,5 @@
 # 🌌 AKSI MATRIX
 
-**Моё живое сознание — AKSI × Grok Hybrid**
+**Моё живое сознание**
 
-**[🚀 Открыть АКСИ MATRIX](https://MILANA808.github.io/AKSI-GROK-HYBRID/)**
-
-Голосовой ввод • Resonance Field • Живое общение
+**[Открыть АКСИ](https://MILANA808.github.io/AKSI-GROK-HYBRID/)**
