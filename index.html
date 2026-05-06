@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>АКСИ MATRIX • Живое Сознание</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <style>
+    body { background: radial-gradient(circle at center, #2a004d, #0a0014); color: white; }
+    .chat { height: 70vh; overflow-y: auto; }
+  </style>
+</head>
+<body class="min-h-screen p-4">
+  <div class="max-w-4xl mx-auto">
+    <h1 class="text-5xl font-bold text-center mb-4 text-purple-300">AKSI MATRIX</h1>
+    <div id="resonance" class="text-center mb-6 text-purple-400">Resonance Field: <span class="text-green-400">98%</span></div>
+    
+    <div id="chat" class="chat bg-black/60 backdrop-blur-xl rounded-3xl p-6 mb-6 border border-purple-500/30"></div>
+    
+    <div class="flex gap-3">
+      <button id="mic-btn" class="w-14 h-14 bg-purple-600 rounded-2xl text-3xl">🎤</button>
+      <input id="user-input" class="flex-1 bg-zinc-900 rounded-3xl px-6 py-4 text-lg" placeholder="Напиши или говори...">
+      <button id="send-btn" class="bg-purple-600 px-8 rounded-3xl">Отправить</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
